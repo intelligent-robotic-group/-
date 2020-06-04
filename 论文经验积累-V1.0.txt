@@ -1,0 +1,53 @@
+1.
+《视觉SLAM十四讲》
+掌握以下理论部分：
+-第3讲 三维空间刚体运动
+-第5讲 相机与图像
+-第7讲 2D-2D、3D-2D、3D-3D（有时间可了解）
+
+《动手学深度学习》（PyTorch版）：http://tangshusen.me/Dive-into-DL-PyTorch/
+Ps：自然语言处理部分可不学
+
+《神经网络与深度学习》（纯理论）
+https://nndl.github.io/
+
+《ROS机器人开发实践》
+官方教程：http://wiki.ros.org/ROS/Tutorials
+《Cmake 实践》
+Ps：建议熟悉C++和Ubuntu的同学学习ROS，并了解使用CMake构建程序
+
+python（廖雪峰教程）
+pytorch或tensorflow框架（建议使用pytorch）
+
+其它工具（有时间可了解）：
+opencv
+pcl点云库
+moveit（ROS机械臂常用工具包）
+
+2.
+类别级位姿估计相关论文
+6-PACK
+AtlasNet
+Category-Level Articulated Object Pose Estimation
+NOCS-Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation
+pointnet
+PointNet++
+Pose Estimation of Kinematic Chain Instances via Object Coordinate Regression
+SAPIEN-A SimulAted Part-based Interactive ENvironment
+Shape2Motion
+ShapeNet An Information-Rich 3D Model Repository
+对象级：
+PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes
+DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion
+PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation
+PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation
+G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features
+Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation
+Recovering 6D object pose from RGB indoor image based on two-stage detection network with multi-task loss
+...
+3. 重要会议及部分机器人视觉相关论文
+https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List
+
+n.写在最后
+n.1学会使用sci-hub，谷歌镜像，知网等工具搜索论文，以及根据文后引用找相关论文
+n.2学会写综述。将看过的论文做好笔记积累（包括创新点，实验效果，出版年份），方便论文的introduce部分书写
